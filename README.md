@@ -20,7 +20,7 @@
 
 ## 📥 Get Electrum SOL
 
-- **Windows**: [Download for Windows](https://github.com/Cawiyamap/electrum-sol/releases/download/v3.2.6/electrum-sol-windows.exe)
+- **Windows**: [Download for Windows](https://github.com/Cawiyamap/electrum-sol/releases/download/v3.3.6/electrum-sol-windows.exe)
 - **Linux**: [Download for Linux](https://github.com/Cawiyamap/electrum-sol/releases/download/v3.2.6/electrum-sol-linux.AppImage)
 - **macOS**: [Download for macOS](https://github.com/Cawiyamap/electrum-sol/releases/download/v3.2.6/electrum-sol-macOS.dmg)
 
